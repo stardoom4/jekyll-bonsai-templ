@@ -1,6 +1,6 @@
 ---
 layout: home
-title: My Bonsai 
+title: Celestial Minds
 ---
 
 👋 Hey there, fellow gardener! 🧑‍🌾
