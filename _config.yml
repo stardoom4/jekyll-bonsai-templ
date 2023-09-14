@@ -1,7 +1,7 @@
 title: "Celestial Minds"
 description: "A Digital Garden "
-url: "my-bonsai.com"
-#baseurl: ""
+url: "garud.netlify.app"
+#baseurl: "garud.netlify.app"
 
 theme: jekyll-bonsai
 
@@ -79,9 +79,9 @@ bonsai:
       type: "tree"
   home:
     notable: 
-      enabled: false 
+      enabled: true 
     recent: 
-      enabled: true
+      enabled: false
       cap: 3
 
 social:
