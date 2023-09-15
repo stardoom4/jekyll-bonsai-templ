@@ -8,4 +8,4 @@ title: Celestial Minds
 
 
 Read [[about]]<br>
-Tags: [[Plant Types]]
+Tags: [[tags]]
