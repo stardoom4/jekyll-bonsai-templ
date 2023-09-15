@@ -8,3 +8,4 @@ title: Celestial Minds
 
 
 Read [[about]]
+Tags: [[tags]]
