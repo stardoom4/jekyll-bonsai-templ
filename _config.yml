@@ -72,7 +72,7 @@ namespaces:
     - "states"
 
 bonsai:
-  default_theme: "light"
+  default_theme: "dark"
   nav:
     type: "graph"
     graph:
