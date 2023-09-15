@@ -8,4 +8,4 @@ title: Celestial Minds
 
 
 Read [[about]]<br>
-Tags: [[/tags]]
+Tags: <a href="https://garud.netlify.app/stat/448e83d224/">Plants types and Tags<a>
