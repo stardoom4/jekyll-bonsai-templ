@@ -7,5 +7,5 @@ title: Celestial Minds
 <h3>Aspiring physicist, and a Self-Made Consipiracy Theorist.</h3>
 
 
-Read [[about]]
+Read [[about]]<br>
 Tags: [[tags]]
