@@ -86,7 +86,10 @@ bonsai:
 
 social:
   connect:
-    enabled: false
+    enabled: true
+    url:
+      # facebook:
+      github: https://github.com/stardoom4
   share:
     enabled: true
     type:
