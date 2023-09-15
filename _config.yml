@@ -79,7 +79,7 @@ bonsai:
       type: "tree"
   home:
     notable: 
-      enabled: true 
+      enabled: false
     recent: 
       enabled: false
       cap: 3
