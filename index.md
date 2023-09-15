@@ -7,5 +7,4 @@ title: Celestial Minds
 <h3>Aspiring physicist, and a Self-Made Consipiracy Theorist.</h3>
 
 
-Read <a href="/about.md">About Me and this Garden<a>
-
+Read [[about.md]]
