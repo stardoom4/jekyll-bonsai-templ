@@ -8,4 +8,4 @@ title: Celestial Minds
 
 
 Read [[about]]<br>
-Tags: <a class="wiki-link" href="/tags.md">Plant Types amd Tags</a>
+Tags: <a class="wiki-link" href="tags.md">Plant Types amd Tags</a>
