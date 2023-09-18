@@ -1,8 +1,6 @@
 ---
 title: Unraveling the Vedas, A Journey into Ancient Indian Wisdom
-tags: religion
-status: ongoing
-tags: hinduism
+id: cs4eb46vett
 ---
 # Unraveling the Vedas: A Journey into Ancient Indian Wisdom
 
